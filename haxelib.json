@@ -1,0 +1,14 @@
+{
+  "name": "pyextern-spaCy",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["python", "spaCy", "pyextern", "npl"],
+  "description": "Pyextern generated externs for spaCy.",
+  "contributors": ["skial"],
+  "releasenote": "Initial Release",
+  "version": "0.0.1-alpha",
+  "url": "https://github.com/skial/pyextern-spaCy",
+  "dependencies": {
+    
+  }
+}
